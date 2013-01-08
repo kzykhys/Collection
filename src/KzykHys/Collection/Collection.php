@@ -9,6 +9,7 @@ namespace KzykHys\Collection;
  */ 
 class Collection extends AbstractCollection implements \IteratorAggregate
 {
+
     /**
      * Retrieve an external iterator
      *
