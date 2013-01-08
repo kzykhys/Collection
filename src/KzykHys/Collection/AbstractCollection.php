@@ -183,7 +183,8 @@ abstract class AbstractCollection implements \Countable, \ArrayAccess
     /**
      * Offset to set
      *
-     * @param mixed $offset
+     * @param mixed $offset The offset to set
+     * @param mixed $value  The value to set
      *
      * @return void
      */
