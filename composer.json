@@ -1,6 +1,6 @@
 {
     "name": "kzykhys/php-collection",
-    "description": "PHP5.3 utility classes for collection",
+    "description": "PHP5.4+ utility classes for collection",
     "license": "MIT",
     "authors": [
         {
