@@ -18,7 +18,7 @@ Modify your composer.json and run `php composer.phar update`
 ``` json
 {
     "require": {
-        "kzykhys/php-collection": "dev-master"
+        "kzykhys/collection": "dev-master"
     }
 }
 ```
