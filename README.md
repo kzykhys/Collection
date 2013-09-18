@@ -1,9 +1,9 @@
 General Purpose PHP Collection
 ==============================
 
-[![Latest Stable Version](https://poser.pugx.org/kzykhys/php-collection/v/stable.png)](https://packagist.org/packages/kzykhys/php-collection)
-[![Build Status](https://travis-ci.org/kzykhys/php-collection.png?branch=master)](https://travis-ci.org/kzykhys/php-collection)
-[![Coverage Status](https://coveralls.io/repos/kzykhys/php-collection/badge.png)](https://coveralls.io/r/kzykhys/php-collection)
+[![Latest Stable Version](https://poser.pugx.org/kzykhys/collection/v/stable.png)](https://packagist.org/packages/kzykhys/collection)
+[![Build Status](https://travis-ci.org/kzykhys/Collection.png?branch=master)](https://travis-ci.org/kzykhys/Collection)
+[![Coverage Status](https://coveralls.io/repos/kzykhys/Collection/badge.png?branch=master)](https://coveralls.io/r/kzykhys/Collection?branch=master)
 
 Requiements
 -----------
